@@ -1,2 +1,1 @@
-# Hands-On-Deep-Learning-for-Geospatial-Analysis
-Hands-On Deep Learning for Geospatial Analysis, published by Packt
+# The code for this repository is under development :construction_worker:
