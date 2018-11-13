@@ -1,0 +1,13 @@
+conda create --name geopython36 python=3.6 -y
+conda activate geopython36
+conda install ipykernel -y
+python -m ipykernel install --user --name GeoPython_3.6
+
+conda install gdal -y
+conda install matplotlib -y
+conda install geopandas -y
+conda install git -y
+pip install git+https://github.com/daavoo/pyntcloud
+conda install cartopy -y
+pip install folium
+
