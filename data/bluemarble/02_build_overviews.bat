@@ -1,0 +1,1 @@
+gdaladdo -r gauss world.vrt 2 4 8 16 32

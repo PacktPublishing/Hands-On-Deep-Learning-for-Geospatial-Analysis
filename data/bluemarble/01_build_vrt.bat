@@ -1,0 +1,1 @@
+gdalbuildvrt world.vrt A1.tiff A2.tiff B1.tiff B2.tiff C1.tiff C2.tiff D1.tiff D2.tiff
